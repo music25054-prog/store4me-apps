@@ -1,0 +1,52 @@
+{
+  "apps": [
+    {
+      "name": "BredGen",
+      "version": "1.3.2"
+    },
+    {
+      "name": "discofi",
+      "version": "1.0"
+    },
+    {
+      "name": "J2Schedule",
+      "version": "0.0.5"
+    },
+    {
+      "name": "Maho-maps",
+      "version": "1.2.4"
+    },
+    {
+      "name": "MahoLichki",
+      "version": "1.1.5"
+    },
+    {
+      "name": "MiniCommander",
+      "version": "4.2"
+    },
+    {
+      "name": "MobileRar",
+      "version": "1.0"
+    },
+    {
+      "name": "mpgram",
+      "version": "1.6.6"
+    },
+    {
+      "name": "Opera mini",
+      "version": "8"
+    },
+    {
+      "name": "PaintCAD",
+      "version": "3.0.24"
+    },
+    {
+      "name": "TubeME",
+      "version": "0.4.0"
+    },
+    {
+      "name": "VK4ME",
+      "version": "3.3.4"
+    }
+  ]
+}
